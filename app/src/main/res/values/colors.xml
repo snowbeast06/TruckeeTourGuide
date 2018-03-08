@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="activity_background_restaurants">#bbdefb</color>
+    <color name="activity_background_lodging">#90caf9</color>
+    <color name="activity_background_outdoors">#64b5f6</color>
+    <color name="activity_background_historical">#42a5f5</color>
+
+
+
+</resources>

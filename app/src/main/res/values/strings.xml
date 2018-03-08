@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Truckee Tour Guide</string>
+
+
+    <string name="restaurant_page_title">Restaurants</string>
+    <string name="name_cottonwoods">Cottonwood</string>
+    <string name="addr_cottonwoods">10142 Rue Hilltop, Truckee, CA 96161</string>
+    <string name="phone_cottonwoods">(530) 587-5711</string>
+    <string name="desc_cottonwoods">Eclectic lodge style with California cuisine and downtown view</string>
+    <string name="name_squeeze_inn">Squeeze Inn</string>
+    <string name="addr_squeeze_inn">10060 Donner Pass Rd B, Truckee, CA 96161</string>
+    <string name="phone_squeeze_inn">(530) 587-9814</string>
+    <string name="desc_squeeze_inn">Signature omelets and other breakfast items plus burgers and cocktails</string>
+    <string name="name_moodys">Moodys Bistro Bar and Beats</string>
+    <string name="addr_moodys">10007 Bridge St, Truckee, CA 96161</string>
+    <string name="phone_moodys">(530) 587-8688</string>
+    <string name="desc_moodys">New American fare with wines on tap and live music</string>
+    <string name="name_smokeys">Smokeys Kitchen</string>
+    <string name="addr_smokeys">12036 Donner Pass Rd, Truckee, CA 96161</string>
+    <string name="phone_smokeys">(530) 582-4535</string>
+    <string name="desc_smokeys">BBQ joint offering breakfast, lunch and dinner with outdoor seating and beer and wine</string>
+    <string name="name_burgerme">Burger Me</string>
+    <string name="addr_burgerme">10418 Donner Pass Rd, Truckee, CA 96161</string>
+    <string name="phone_burgerme">(530) 587-8852</string>
+    <string name="desc_burgerme">Locally sourced beef, bison, poultry, seafood and vegetarian, plus shakes, beer and wine</string>
+
+
+    <string name="lodging_page_title">Lodging</string>
+    <string name="name_truckee_donner_lodge">Truckee Donner Lodge</string>
+    <string name="addr_truckee_donner_lodge">10527 Cold Stream Rd, Truckee, CA 96161</string>
+    <string name="phone_truckee_donner_lodge">(530) 582-9999</string>
+    <string name="desc_truckee_donner_lodge">Modern wood and stone lodge with outdoor pool and hot tub</string>
+    <string name="name_ritzcarlton">The Ritz Carlton, Lake Tahoe</string>
+    <string name="addr_ritzcarlton">13031 Ritz Carlton Highlands Ct, Truckee, CA 96161</string>
+    <string name="phone_ritzcarlton">(530) 562-3000</string>
+    <string name="desc_ritzcarlton">Luxury resort hotel, with pool, hot tub, spa services, dining and lift access to Northstar ski resort</string>
+    <string name="name_cedar_house">Cedar House Sport Hotel</string>
+    <string name="addr_cedar_house">10918 Brockway rd, Truckee, CA 96161</string>
+    <string name="phone_cedar_house">(530) 582-5655</string>
+    <string name="desc_cedar_house">Modern stylish Euro-style lodge </string>
+    <string name="name_truckee_hotel">The Truckee Hotel</string>
+    <string name="addr_truckee_hotel">10007 Bridge St, Truckee, CA 96161</string>
+    <string name="phone_truckee_hotel">(530) 587-4444</string>
+    <string name="desc_truckee_hotel">Historic hotel built in 1837 with a rustic old-west vibe in the heart of downtown</string>
+    <string name="name_redlight_hostel">Redlight Hostel</string>
+    <string name="addr_redlight_hostel">10101 W River St, Truckee, CA 96161</string>
+    <string name="phone_redlight_hostel">(530) 536-0005</string>
+    <string name="desc_redlight_hostel">Speakeasy themed basic lodging in dorm room style with bunks, or private rooms</string>
+    <string name="name_best_western">Best Western Plus Truckee-Tahoe Hotel</string>
+    <string name="addr_best_western">11331 Brockway Rd, Truckee, CA 96161</string>
+    <string name="phone_best_western">(530) 587-4525</string>
+    <string name="desc_best_western">Updated lodge style hotel with pool</string>
+
+
+    <string name="outdoors_page_title">Outdoors</string>
+    <string name="name_donner_memorial_state_park">Donner Memorial State Park</string>
+    <string name="addr_donner_memorial_state_park">12593 Donner Pass Rd, Truckee, CA 96161</string>
+    <string name="phone_donner_memorial_state_park">(530) 582-7892</string>
+    <string name="desc_donner_memorial_state_park">State park and museum documenting the journey of the Donner Party to the west coast</string>
+    <string name="name_donner_lake">Donner Lake</string>
+    <string name="addr_donner_lake">Donner Pass Rd, Truckee, CA 96161</string>
+    <string name="phone_donner_lake">   </string>
+    <string name="desc_donner_lake">This smaller cousin to Lake Tahoe offers boating, fishing, swimming, and watersports </string>
+    <string name="name_northstar">Northstar Ski Resort</string>
+    <string name="addr_northstar">100 Northstar dr, Truckee, CA 96161</string>
+    <string name="phone_northstar">(800) 466-6784</string>
+    <string name="desc_northstar">Popular ski resort with a village of restaurants, shops, and family activities </string>
+    <string name="name_boreal">Boreal Mountain Resort</string>
+    <string name="addr_boreal">Interstate 80 at Castle Peak exit, Truckee, CA 96160</string>
+    <string name="phone_boreal">(530) 426-3666</string>
+    <string name="desc_boreal">Skiing, snowboarding, and tubing, with night hours</string>
+    <string name="name_coyote_moon">Coyote Moon Golf Course</string>
+    <string name="addr_coyote_moon">10685 Northwoods blvd, Truckee, CA 96161</string>
+    <string name="phone_coyote_moon">(530) 587-0886</string>
+    <string name="desc_coyote_moon">250 acres of rolling hills amidst towering pines, enormous granite outcroppings, wildflowers and Trout Creek</string>
+    <string name="name_bike_park">Truckee Bike Park</string>
+    <string name="addr_bike_park">12200 Joerger Dr, Truckee, CA 96161</string>
+    <string name="phone_bike_park">(530)401-0513</string>
+    <string name="desc_bike_park">Dirtbike racing and jumping track</string>
+
+
+    <string name="historical_page_title">Historical Sites</string>
+    <string name="name_china_wall">China Wall</string>
+    <string name="addr_china_wall">Donner Pass Rd, Truckee, CA 96161</string>
+    <string name="phone_china_wall">   </string>
+    <string name="desc_china_wall">Monument to the Chinese laborers that built the Central Pacific Railroad</string>
+    <string name="name_jail">Old Truckee Jail Museum</string>
+    <string name="addr_jail">10142 Jibboom Street, Truckee, CA 96161</string>
+    <string name="phone_jail">(530) 582-0893</string>
+    <string name="desc_jail">Historic 19th century jail house museum</string>
+    <string name="name_downtown">Historic Downtown Truckee</string>
+    <string name="addr_downtown">Donner Pass Rd, Truckee, CA 96161</string>
+    <string name="phone_downtown">   </string>
+    <string name="desc_downtown">Restaurant and shops occupy the historic downtown buildings from the 19th century</string>
+    <string name="name_petroglyphs">Native American Petroglyphs</string>
+    <string name="addr_petroglyphs">Donner Pass Rd, Truckee, CA 96161</string>
+    <string name="phone_petroglyphs">   </string>
+    <string name="desc_petroglyphs">Several hundred year old native rock art</string>
+    <string name="name_donner_camp">Donner Camp Historical Trail</string>
+    <string name="addr_donner_camp">12893 CA 89, Truckee, CA 96161</string>
+    <string name="phone_donner_camp">   </string>
+    <string name="desc_donner_camp">Interpretive trail at the Alder Creek site of the Donner Family tragedy</string>
+
+
+
+
+</resources>

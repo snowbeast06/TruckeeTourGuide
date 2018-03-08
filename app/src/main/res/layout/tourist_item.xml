@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/toplevellayout"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/list_item_height"
+    android:minHeight="@dimen/list_item_height"
+    android:background="@color/activity_background_historical">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_launcher"
+        android:layout_centerVertical="true"
+            />
+
+    <RelativeLayout
+        android:id="@+id/textViewParent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_toEndOf="@id/image"
+        android:layout_toRightOf="@id/image"
+        android:paddingStart="16dp"
+        android:paddingLeft="16dp"
+        android:paddingBottom="8dp">
+        <TextView
+            android:id="@+id/tourist_item_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:gravity="bottom"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            tools:text="Cottonwoods" />
+
+        <TextView
+            android:id="@+id/tourist_item_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tourist_item_name"
+            android:gravity="top"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:textStyle="normal"
+            tools:text="10142 Rue Hilltop, Truckee, CA 96161" />
+
+        <TextView
+            android:id="@+id/tourist_item_phone"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/qtr_height"
+            android:layout_below="@id/tourist_item_address"
+            android:gravity="top"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:textStyle="normal"
+            tools:text="(530) 587-5711" />
+
+        <TextView
+            android:id="@+id/tourist_item_descr"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tourist_item_phone"
+            android:gravity="top"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:textStyle="normal"
+            tools:text="Eclectic lodge style with California cuisine and downtown view" />
+    </RelativeLayout>
+</RelativeLayout>
